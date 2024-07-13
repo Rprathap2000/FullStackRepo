@@ -11,7 +11,12 @@ public class Payment {
 	}
 	public String paypall(String url)
 	{
-		return " Paypall intigartion done";
+		return " Paypall intigration is done";
+		
+	}
+	public String enableBharatPe(String url)
+	{
+		return " BharatPay intigration is done";
 		
 	}
 
